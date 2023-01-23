@@ -1,4 +1,4 @@
-﻿using Ikk.Claim.Domain.Entities.Users;
+﻿using Ikk.Claims.Domain.Entities.Users;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKK.Claim.Application.Interfaces.Contexts
+namespace IKK.Claims.Application.Interfaces.Contexts
 {
     public interface IClaimDbContext
     {

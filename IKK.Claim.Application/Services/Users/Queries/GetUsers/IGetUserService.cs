@@ -1,6 +1,6 @@
-﻿using IKK.Claim.Application.Common;
+﻿using IKK.Claims.Application.Common;
 
-namespace IKK.Claim.Application.Services.Users.Queries.GetUsers
+namespace IKK.Claims.Application.Services.Users.Queries.GetUsers
 {
     public interface IGetUserService
     {

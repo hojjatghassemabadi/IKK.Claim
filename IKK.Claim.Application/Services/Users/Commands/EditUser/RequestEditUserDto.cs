@@ -1,4 +1,4 @@
-﻿namespace IKK.Claim.Application.Services.Users.Commands.EditUser
+﻿namespace IKK.Claims.Application.Services.Users.Commands.EditUser
 {
     public class RequestEditUserDto
     {

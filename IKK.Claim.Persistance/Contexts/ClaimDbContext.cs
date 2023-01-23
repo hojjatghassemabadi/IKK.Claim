@@ -1,7 +1,7 @@
-﻿using Ikk.Claim.Common.Roles;
-using Ikk.Claim.Domain.Commons.Statics;
-using Ikk.Claim.Domain.Entities.Users;
-using IKK.Claim.Application.Interfaces.Contexts;
+﻿using Ikk.Claims.Common.Roles;
+using Ikk.Claims.Domain.Commons.Statics;
+using Ikk.Claims.Domain.Entities.Users;
+using IKK.Claims.Application.Interfaces.Contexts;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKK.Claim.Persistance.Contexts
+namespace IKK.Claims.Persistance.Contexts
 {
     public class ClaimDbContext:DbContext,IClaimDbContext
     {

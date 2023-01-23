@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace IKK.Claim.Presentation.Controllers
+namespace IKK.Claims.Presentation.Controllers
 {
     [ApiController]
     [Route("[controller]")]

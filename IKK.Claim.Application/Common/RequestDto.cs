@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKK.Claim.Application.Common
+namespace IKK.Claims.Application.Common
 {
     public class RequestDto
     {

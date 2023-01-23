@@ -1,6 +1,6 @@
-﻿using IKK.Claim.Application.Common;
+﻿using IKK.Claims.Application.Common;
 
-namespace IKK.Claim.Application.Services.Users.Commands.EditUser
+namespace IKK.Claims.Application.Services.Users.Commands.EditUser
 {
     public interface IEditUserService
     {

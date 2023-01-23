@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "IKK.Claim.Presentation": {
+    "IKK.Claims.Presentation": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

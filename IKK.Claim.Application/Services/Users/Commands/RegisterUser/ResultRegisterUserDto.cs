@@ -1,4 +1,4 @@
-﻿namespace IKK.Claim.Application.Services.Users.Commands.RegisterUser
+﻿namespace IKK.Claims.Application.Services.Users.Commands.RegisterUser
 {
     public class ResultRegisterUserDto
     {

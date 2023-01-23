@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fpsY7kSWD3aUpfVtufUNyZyTQHd6zJVP0bPwSdcHSo8fBkCWiA+EVVEitYoqQg4NJNtwKhNFcRI/4RX2pSZ25g==",
+  "dgSpecHash": "C1jpAhBGFDp7z4l4ntj2dQnsJ2ZIK8hd8ofP1kiazaJjVso/PEHq32tCvALTTx/GcQIvKssXnn/DLz+fiCI7OQ==",
   "success": true,
-  "projectFilePath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj",
+  "projectFilePath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

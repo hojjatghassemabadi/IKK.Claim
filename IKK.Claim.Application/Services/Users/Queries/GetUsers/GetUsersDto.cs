@@ -1,4 +1,4 @@
-﻿namespace IKK.Claim.Application.Services.Users.Queries.GetUsers
+﻿namespace IKK.Claims.Application.Services.Users.Queries.GetUsers
 {
     public class GetUsersDto
     {

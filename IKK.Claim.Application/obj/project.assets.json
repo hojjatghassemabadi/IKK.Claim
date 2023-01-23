@@ -211,27 +211,27 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Ikk.Claim.Common/1.0.0": {
+      "Ikk.Claims.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Ikk.Claim.Common.dll": {}
+          "bin/placeholder/Ikk.Claims.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ikk.Claim.Common.dll": {}
+          "bin/placeholder/Ikk.Claims.Common.dll": {}
         }
       },
-      "Ikk.Claim.Domain/1.0.0": {
+      "Ikk.Claims.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "FluentValidation.AspNetCore": "11.2.2"
         },
         "compile": {
-          "bin/placeholder/Ikk.Claim.Domain.dll": {}
+          "bin/placeholder/Ikk.Claims.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ikk.Claim.Domain.dll": {}
+          "bin/placeholder/Ikk.Claims.Domain.dll": {}
         }
       }
     }
@@ -629,21 +629,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Ikk.Claim.Common/1.0.0": {
+    "Ikk.Claims.Common/1.0.0": {
       "type": "project",
-      "path": "../Ikk.Claim.Common/Ikk.Claim.Common.csproj",
-      "msbuildProject": "../Ikk.Claim.Common/Ikk.Claim.Common.csproj"
+      "path": "../Ikk.Claim.Common/Ikk.Claims.Common.csproj",
+      "msbuildProject": "../Ikk.Claim.Common/Ikk.Claims.Common.csproj"
     },
-    "Ikk.Claim.Domain/1.0.0": {
+    "Ikk.Claims.Domain/1.0.0": {
       "type": "project",
-      "path": "../Ikk.Claim.Applicaton/Ikk.Claim.Domain.csproj",
-      "msbuildProject": "../Ikk.Claim.Applicaton/Ikk.Claim.Domain.csproj"
+      "path": "../Ikk.Claim.Applicaton/Ikk.Claims.Domain.csproj",
+      "msbuildProject": "../Ikk.Claim.Applicaton/Ikk.Claims.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Ikk.Claim.Common >= 1.0.0",
-      "Ikk.Claim.Domain >= 1.0.0",
+      "Ikk.Claims.Common >= 1.0.0",
+      "Ikk.Claims.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.2"
     ]
   },
@@ -654,9 +654,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claim.Application.csproj",
-      "projectName": "IKK.Claim.Application",
-      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claim.Application.csproj",
+      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claims.Application.csproj",
+      "projectName": "IKK.Claims.Application",
+      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claims.Application.csproj",
       "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
       "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\obj\\",
       "projectStyle": "PackageReference",
@@ -678,11 +678,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj": {
-              "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj"
+            "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj": {
+              "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj"
             },
-            "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj": {
-              "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj"
+            "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj": {
+              "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj"
             }
           }
         }

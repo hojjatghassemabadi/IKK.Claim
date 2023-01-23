@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ikk.Claim.Common
+namespace Ikk.Claims.Common
 {
     public static class Pagination
     {

@@ -1,4 +1,4 @@
-﻿namespace IKK.Claim.Application.Common
+﻿namespace IKK.Claims.Application.Common
 {
     public class ResultDto
     {

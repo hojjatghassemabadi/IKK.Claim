@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f3PfqaGd4Ame3j0zKPvUsDDp7ALj0udqjy63OF4voqmZcdv/qp1zsDT5E4CIqgkrPVxM2TgzDjs517nodUOevA==",
+  "dgSpecHash": "s7jJHfld/oQzc6TJDkaHL3PzWF06iTwfv4mOimU2G5qtGrcpqZPJHDga80zkqcCeplNjp/r5Ag4KdUNF4/gydA==",
   "success": true,
-  "projectFilePath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj",
+  "projectFilePath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\86516259\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\86516259\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

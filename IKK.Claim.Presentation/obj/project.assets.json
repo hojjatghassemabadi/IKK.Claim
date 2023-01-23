@@ -2379,59 +2379,59 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "IKK.Claim.Application/1.0.0": {
+      "IKK.Claims.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Ikk.Claim.Common": "1.0.0",
-          "Ikk.Claim.Domain": "1.0.0",
+          "Ikk.Claims.Common": "1.0.0",
+          "Ikk.Claims.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.2"
         },
         "compile": {
-          "bin/placeholder/IKK.Claim.Application.dll": {}
+          "bin/placeholder/IKK.Claims.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IKK.Claim.Application.dll": {}
+          "bin/placeholder/IKK.Claims.Application.dll": {}
         }
       },
-      "Ikk.Claim.Common/1.0.0": {
+      "Ikk.Claims.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Ikk.Claim.Common.dll": {}
+          "bin/placeholder/Ikk.Claims.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ikk.Claim.Common.dll": {}
+          "bin/placeholder/Ikk.Claims.Common.dll": {}
         }
       },
-      "Ikk.Claim.Domain/1.0.0": {
+      "Ikk.Claims.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "FluentValidation.AspNetCore": "11.2.2"
         },
         "compile": {
-          "bin/placeholder/Ikk.Claim.Domain.dll": {}
+          "bin/placeholder/Ikk.Claims.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ikk.Claim.Domain.dll": {}
+          "bin/placeholder/Ikk.Claims.Domain.dll": {}
         }
       },
-      "IKK.Claim.Persistance/1.0.0": {
+      "IKK.Claims.Persistance/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "IKK.Claim.Application": "1.0.0",
-          "Ikk.Claim.Domain": "1.0.0",
+          "IKK.Claims.Application": "1.0.0",
+          "Ikk.Claims.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.2",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.2"
         },
         "compile": {
-          "bin/placeholder/IKK.Claim.Persistance.dll": {}
+          "bin/placeholder/IKK.Claims.Persistance.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IKK.Claim.Persistance.dll": {}
+          "bin/placeholder/IKK.Claims.Persistance.dll": {}
         }
       }
     }
@@ -8314,31 +8314,31 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "IKK.Claim.Application/1.0.0": {
+    "IKK.Claims.Application/1.0.0": {
       "type": "project",
-      "path": "../IKK.Claim.Application/IKK.Claim.Application.csproj",
-      "msbuildProject": "../IKK.Claim.Application/IKK.Claim.Application.csproj"
+      "path": "../IKK.Claim.Application/IKK.Claims.Application.csproj",
+      "msbuildProject": "../IKK.Claim.Application/IKK.Claims.Application.csproj"
     },
-    "Ikk.Claim.Common/1.0.0": {
+    "Ikk.Claims.Common/1.0.0": {
       "type": "project",
-      "path": "../Ikk.Claim.Common/Ikk.Claim.Common.csproj",
-      "msbuildProject": "../Ikk.Claim.Common/Ikk.Claim.Common.csproj"
+      "path": "../Ikk.Claim.Common/Ikk.Claims.Common.csproj",
+      "msbuildProject": "../Ikk.Claim.Common/Ikk.Claims.Common.csproj"
     },
-    "Ikk.Claim.Domain/1.0.0": {
+    "Ikk.Claims.Domain/1.0.0": {
       "type": "project",
-      "path": "../Ikk.Claim.Applicaton/Ikk.Claim.Domain.csproj",
-      "msbuildProject": "../Ikk.Claim.Applicaton/Ikk.Claim.Domain.csproj"
+      "path": "../Ikk.Claim.Applicaton/Ikk.Claims.Domain.csproj",
+      "msbuildProject": "../Ikk.Claim.Applicaton/Ikk.Claims.Domain.csproj"
     },
-    "IKK.Claim.Persistance/1.0.0": {
+    "IKK.Claims.Persistance/1.0.0": {
       "type": "project",
-      "path": "../IKK.Claim.Persistance/IKK.Claim.Persistance.csproj",
-      "msbuildProject": "../IKK.Claim.Persistance/IKK.Claim.Persistance.csproj"
+      "path": "../IKK.Claim.Persistance/IKK.Claims.Persistance.csproj",
+      "msbuildProject": "../IKK.Claim.Persistance/IKK.Claims.Persistance.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "EntityFramework >= 6.4.4",
-      "IKK.Claim.Persistance >= 1.0.0",
+      "IKK.Claims.Persistance >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.2",
       "Microsoft.IdentityModel.Tokens >= 6.26.0",
@@ -8383,8 +8383,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj": {
-              "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj"
+            "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj": {
+              "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj"
             }
           }
         }

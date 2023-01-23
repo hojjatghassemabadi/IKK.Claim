@@ -1,17 +1,17 @@
-﻿using IKK.Claim.Application.Interfaces.Contexts;
-using IKK.Claim.Application.Interfaces.FacadPatterns;
-using IKK.Claim.Application.Services.Users.Commands.EditUser;
-using IKK.Claim.Application.Services.Users.Commands.RegisterUser;
-using IKK.Claim.Application.Services.Users.Commands.RemoveUser;
-using IKK.Claim.Application.Services.Users.Commands.UserStatusChange;
-using IKK.Claim.Application.Services.Users.Queries.GetUsers;
+﻿using IKK.Claims.Application.Interfaces.Contexts;
+using IKK.Claims.Application.Interfaces.FacadPatterns;
+using IKK.Claims.Application.Services.Users.Commands.EditUser;
+using IKK.Claims.Application.Services.Users.Commands.RegisterUser;
+using IKK.Claims.Application.Services.Users.Commands.RemoveUser;
+using IKK.Claims.Application.Services.Users.Commands.UserStatusChange;
+using IKK.Claims.Application.Services.Users.Queries.GetUsers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKK.Claim.Application.Services.Users.FacadPatterns
+namespace IKK.Claims.Application.Services.Users.FacadPatterns
 {
     public class FacadUsers : IUsersFacad
     {

@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IKK.Claim.Persistance\IKK.Claim.Persistance.csproj" />
+    <ProjectReference Include="..\IKK.Claim.Persistance\IKK.Claims.Persistance.csproj" />
   </ItemGroup>
 
 </Project>

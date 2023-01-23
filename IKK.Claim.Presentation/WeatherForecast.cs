@@ -1,4 +1,4 @@
-namespace IKK.Claim.Presentation
+namespace IKK.Claims.Presentation
 {
     public class WeatherForecast
     {

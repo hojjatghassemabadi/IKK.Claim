@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ikk.Claim.Common.Roles
+namespace Ikk.Claims.Common.Roles
 {
     public class UserRoles
     {

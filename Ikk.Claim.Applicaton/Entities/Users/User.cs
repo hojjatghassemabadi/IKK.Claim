@@ -1,5 +1,5 @@
-﻿using Ikk.Claim.Domain.Commons;
-using Ikk.Claim.Domain.Commons.Statics;
+﻿using Ikk.Claims.Domain.Commons;
+using Ikk.Claims.Domain.Commons.Statics;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ikk.Claim.Domain.Entities.Users
+namespace Ikk.Claims.Domain.Entities.Users
 {
     
     public class User:BaseEntity

@@ -1,13 +1,13 @@
-﻿using Ikk.Claim.Domain.Entities.Users;
-using IKK.Claim.Application.Common;
-using IKK.Claim.Application.Interfaces.Contexts;
+﻿using Ikk.Claims.Domain.Entities.Users;
+using IKK.Claims.Application.Common;
+using IKK.Claims.Application.Interfaces.Contexts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKK.Claim.Application.Services.Users.Commands.RegisterUser
+namespace IKK.Claims.Application.Services.Users.Commands.RegisterUser
 {
     public class RegisterUserService : IRegisterUserService
     {

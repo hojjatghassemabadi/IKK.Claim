@@ -9,7 +9,7 @@
       "IKK.Claim.Presentation/1.0.0": {
         "dependencies": {
           "EntityFramework": "6.4.4",
-          "IKK.Claim.Persistance": "1.0.0",
+          "IKK.Claims.Persistance": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "7.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.2",
           "Microsoft.IdentityModel.Tokens": "6.26.0",
@@ -1605,39 +1605,39 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "IKK.Claim.Application/1.0.0": {
+      "IKK.Claims.Application/1.0.0": {
         "dependencies": {
-          "Ikk.Claim.Common": "1.0.0",
-          "Ikk.Claim.Domain": "1.0.0",
+          "Ikk.Claims.Common": "1.0.0",
+          "Ikk.Claims.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.2"
         },
         "runtime": {
-          "IKK.Claim.Application.dll": {}
+          "IKK.Claims.Application.dll": {}
         }
       },
-      "Ikk.Claim.Common/1.0.0": {
+      "Ikk.Claims.Common/1.0.0": {
         "runtime": {
-          "Ikk.Claim.Common.dll": {}
+          "Ikk.Claims.Common.dll": {}
         }
       },
-      "Ikk.Claim.Domain/1.0.0": {
+      "Ikk.Claims.Domain/1.0.0": {
         "dependencies": {
           "FluentValidation.AspNetCore": "11.2.2"
         },
         "runtime": {
-          "Ikk.Claim.Domain.dll": {}
+          "Ikk.Claims.Domain.dll": {}
         }
       },
-      "IKK.Claim.Persistance/1.0.0": {
+      "IKK.Claims.Persistance/1.0.0": {
         "dependencies": {
-          "IKK.Claim.Application": "1.0.0",
-          "Ikk.Claim.Domain": "1.0.0",
+          "IKK.Claims.Application": "1.0.0",
+          "Ikk.Claims.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.2",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.2"
         },
         "runtime": {
-          "IKK.Claim.Persistance.dll": {}
+          "IKK.Claims.Persistance.dll": {}
         }
       }
     }
@@ -2754,22 +2754,22 @@
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
-    "IKK.Claim.Application/1.0.0": {
+    "IKK.Claims.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Ikk.Claim.Common/1.0.0": {
+    "Ikk.Claims.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Ikk.Claim.Domain/1.0.0": {
+    "Ikk.Claims.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "IKK.Claim.Persistance/1.0.0": {
+    "IKK.Claims.Persistance/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

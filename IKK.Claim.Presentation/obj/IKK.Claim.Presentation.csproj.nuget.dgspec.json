@@ -4,12 +4,12 @@
     "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Presentation\\IKK.Claim.Presentation.csproj": {}
   },
   "projects": {
-    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claim.Application.csproj": {
+    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claims.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claim.Application.csproj",
-        "projectName": "IKK.Claim.Application",
-        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claim.Application.csproj",
+        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claims.Application.csproj",
+        "projectName": "IKK.Claims.Application",
+        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claims.Application.csproj",
         "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
         "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -31,11 +31,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj": {
-                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj"
+              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj": {
+                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj"
               },
-              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj": {
-                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj"
+              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj": {
+                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj"
               }
             }
           }
@@ -74,12 +74,12 @@
         }
       }
     },
-    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj": {
+    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj",
-        "projectName": "Ikk.Claim.Domain",
-        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj",
+        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj",
+        "projectName": "Ikk.Claims.Domain",
+        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj",
         "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
         "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\obj\\",
         "projectStyle": "PackageReference",
@@ -137,12 +137,12 @@
         }
       }
     },
-    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj": {
+    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj",
-        "projectName": "Ikk.Claim.Common",
-        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj",
+        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj",
+        "projectName": "Ikk.Claims.Common",
+        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj",
         "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
         "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\obj\\",
         "projectStyle": "PackageReference",
@@ -194,12 +194,12 @@
         }
       }
     },
-    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj": {
+    "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj",
-        "projectName": "IKK.Claim.Persistance",
-        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj",
+        "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj",
+        "projectName": "IKK.Claims.Persistance",
+        "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj",
         "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
         "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\obj\\",
         "projectStyle": "PackageReference",
@@ -221,11 +221,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claim.Application.csproj": {
-                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claim.Application.csproj"
+              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claims.Application.csproj": {
+                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Application\\IKK.Claims.Application.csproj"
               },
-              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj": {
-                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj"
+              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj": {
+                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj"
               }
             }
           }
@@ -311,8 +311,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj": {
-                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claim.Persistance.csproj"
+              "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj": {
+                "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Persistance\\IKK.Claims.Persistance.csproj"
               }
             }
           }

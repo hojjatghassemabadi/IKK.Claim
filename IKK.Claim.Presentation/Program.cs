@@ -1,7 +1,7 @@
-using IKK.Claim.Application.Interfaces.Contexts;
-using IKK.Claim.Application.Interfaces.FacadPatterns;
-using IKK.Claim.Application.Services.Users.FacadPatterns;
-using IKK.Claim.Persistance.Contexts;
+using IKK.Claims.Application.Interfaces.Contexts;
+using IKK.Claims.Application.Interfaces.FacadPatterns;
+using IKK.Claims.Application.Services.Users.FacadPatterns;
+using IKK.Claims.Persistance.Contexts;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

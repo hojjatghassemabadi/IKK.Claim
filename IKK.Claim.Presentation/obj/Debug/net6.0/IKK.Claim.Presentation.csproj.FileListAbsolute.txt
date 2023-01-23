@@ -80,12 +80,6 @@ E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runti
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claim.Application.dll
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claim.Domain.dll
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claim.Persistance.dll
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claim.Persistance.pdb
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claim.Application.pdb
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claim.Domain.pdb
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\FluentValidation.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
@@ -97,8 +91,6 @@ E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Micro
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Microsoft.Owin.Security.OAuth.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Newtonsoft.Json.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Owin.dll
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claim.Common.dll
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claim.Common.pdb
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\EntityFramework.SqlServer.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\EntityFramework.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\System.Data.SqlClient.dll
@@ -107,3 +99,11 @@ E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runti
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claims.Application.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claims.Common.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claims.Domain.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claims.Persistance.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claims.Persistance.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\IKK.Claims.Application.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claims.Common.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Presentation\bin\Debug\net6.0\Ikk.Claims.Domain.pdb

@@ -1,7 +1,7 @@
-﻿using Ikk.Claim.Domain.Commons.Statics;
+﻿using Ikk.Claims.Domain.Commons.Statics;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Ikk.Claim.Domain.Entities.Users
+namespace Ikk.Claims.Domain.Entities.Users
 {
 
     public class UserInRole {

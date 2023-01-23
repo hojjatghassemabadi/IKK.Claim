@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj",
-      "projectName": "Ikk.Claim.Common",
-      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claim.Common.csproj",
+      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj",
+      "projectName": "Ikk.Claims.Common",
+      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\Ikk.Claims.Common.csproj",
       "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
       "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Common\\obj\\",
       "projectStyle": "PackageReference",

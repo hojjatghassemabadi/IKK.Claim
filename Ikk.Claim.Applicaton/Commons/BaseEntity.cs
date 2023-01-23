@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ikk.Claim.Domain.Commons
+namespace Ikk.Claims.Domain.Commons
 {
     public class BaseEntity<TKey>
     {

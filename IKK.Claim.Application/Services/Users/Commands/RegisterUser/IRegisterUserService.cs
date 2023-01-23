@@ -1,6 +1,6 @@
-﻿using IKK.Claim.Application.Common;
+﻿using IKK.Claims.Application.Common;
 
-namespace IKK.Claim.Application.Services.Users.Commands.RegisterUser
+namespace IKK.Claims.Application.Services.Users.Commands.RegisterUser
 {
     public interface IRegisterUserService {
         ResultDto<ResultRegisterUserDto> Execute(RequestRegisterUserDto request);    

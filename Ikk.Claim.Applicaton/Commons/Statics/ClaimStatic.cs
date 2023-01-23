@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ikk.Claim.Domain.Commons.Statics
+namespace Ikk.Claims.Domain.Commons.Statics
 {
     public class ClaimStatic
     {

@@ -135,9 +135,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj",
-      "projectName": "Ikk.Claim.Domain",
-      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj",
+      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj",
+      "projectName": "Ikk.Claims.Domain",
+      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj",
       "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
       "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\obj\\",
       "projectStyle": "PackageReference",

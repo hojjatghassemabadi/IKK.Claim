@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nT2KI+GBloy74Ri+79rPPLMGFSRJEG7qVvAULzzYsXiMNlrEzqwFrE8S4OopZDaaWBDeBrMdW204a216CB8suw==",
+  "dgSpecHash": "4+cwhTmi5/uF9qfxu/LeEn8NtuYGAKsS+m3cArhWxSN4vpbWhXYI2TSdpfzp4xCSI1sdPqHaYt4ILQ9bM6qFIg==",
   "success": true,
-  "projectFilePath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claim.Domain.csproj",
+  "projectFilePath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\Ikk.Claim.Applicaton\\Ikk.Claims.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\86516259\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
     "C:\\Users\\86516259\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

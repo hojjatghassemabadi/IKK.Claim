@@ -1,6 +1,6 @@
-﻿using IKK.Claim.Application.Common;
+﻿using IKK.Claims.Application.Common;
 
-namespace IKK.Claim.Application.Services.Users.Commands.UserStatusChange
+namespace IKK.Claims.Application.Services.Users.Commands.UserStatusChange
 {
     public interface IUserStatusChangeService
     {

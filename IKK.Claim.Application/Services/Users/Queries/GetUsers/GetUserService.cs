@@ -1,13 +1,13 @@
-﻿using Ikk.Claim.Common;
-using IKK.Claim.Application.Common;
-using IKK.Claim.Application.Interfaces.Contexts;
+﻿using Ikk.Claims.Common;
+using IKK.Claims.Application.Common;
+using IKK.Claims.Application.Interfaces.Contexts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKK.Claim.Application.Services.Users.Queries.GetUsers
+namespace IKK.Claims.Application.Services.Users.Queries.GetUsers
 {
     public class GetUserService : IGetUserService
     {

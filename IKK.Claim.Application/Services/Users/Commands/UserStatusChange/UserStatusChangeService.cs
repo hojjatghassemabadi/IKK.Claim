@@ -1,12 +1,12 @@
-﻿using IKK.Claim.Application.Common;
-using IKK.Claim.Application.Interfaces.Contexts;
+﻿using IKK.Claims.Application.Common;
+using IKK.Claims.Application.Interfaces.Contexts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKK.Claim.Application.Services.Users.Commands.UserStatusChange
+namespace IKK.Claims.Application.Services.Users.Commands.UserStatusChange
 {
     public class UserStatusChangeService : IUserStatusChangeService
     {

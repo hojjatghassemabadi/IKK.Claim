@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Infrastructure\\IKK.Claim.Infrastructure.csproj",
-      "projectName": "IKK.Claim.Infrastructure",
-      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Infrastructure\\IKK.Claim.Infrastructure.csproj",
+      "projectUniqueName": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Infrastructure\\IKK.Claims.Infrastructure.csproj",
+      "projectName": "IKK.Claims.Infrastructure",
+      "projectPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Infrastructure\\IKK.Claims.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\86516259\\.nuget\\packages\\",
       "outputPath": "E:\\teamproject\\IKK.Claim\\IKK.Claim\\IKK.Claim.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
