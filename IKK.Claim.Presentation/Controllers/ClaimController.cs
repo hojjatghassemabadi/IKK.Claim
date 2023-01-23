@@ -11,7 +11,7 @@ namespace IKK.Claim.Presentation.Controllers
         private readonly IUsersFacad _userService;
 
         public ClaimController(IUsersFacad userService)
-        {
+        {//token
             _userService = userService;
         }
         [HttpGet]
