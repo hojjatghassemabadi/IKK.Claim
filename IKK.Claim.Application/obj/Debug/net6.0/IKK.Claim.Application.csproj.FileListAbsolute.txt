@@ -1,0 +1,17 @@
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\bin\Debug\net6.0\IKK.Claim.Application.deps.json
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\bin\Debug\net6.0\IKK.Claim.Application.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\bin\Debug\net6.0\IKK.Claim.Application.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\bin\Debug\net6.0\Ikk.Claim.Domain.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\bin\Debug\net6.0\Ikk.Claim.Domain.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.csproj.AssemblyReference.cache
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.AssemblyInfoInputs.cache
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.AssemblyInfo.cs
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.csproj.CoreCompileInputs.cache
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.csproj.CopyComplete
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\refint\IKK.Claim.Application.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\IKK.Claim.Application.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\obj\Debug\net6.0\ref\IKK.Claim.Application.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\bin\Debug\net6.0\Ikk.Claim.Common.dll
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Application\bin\Debug\net6.0\Ikk.Claim.Common.pdb

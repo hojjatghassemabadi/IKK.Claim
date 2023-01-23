@@ -1,0 +1,12 @@
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\bin\Debug\net6.0\Ikk.Claim.Domain.deps.json
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\bin\Debug\net6.0\Ikk.Claim.Domain.dll
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\bin\Debug\net6.0\Ikk.Claim.Domain.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\Ikk.Claim.Domain.csproj.AssemblyReference.cache
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\Ikk.Claim.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\Ikk.Claim.Domain.AssemblyInfoInputs.cache
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\Ikk.Claim.Domain.AssemblyInfo.cs
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\Ikk.Claim.Domain.csproj.CoreCompileInputs.cache
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\Ikk.Claim.Domain.dll
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\refint\Ikk.Claim.Domain.dll
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\Ikk.Claim.Domain.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\Ikk.Claim.Applicaton\obj\Debug\net6.0\ref\Ikk.Claim.Domain.dll
