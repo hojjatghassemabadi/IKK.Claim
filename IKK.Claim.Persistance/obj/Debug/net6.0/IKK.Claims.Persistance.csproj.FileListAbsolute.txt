@@ -1,8 +1,3 @@
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.csproj.AssemblyReference.cache
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.GeneratedMSBuildEditorConfig.editorconfig
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.AssemblyInfoInputs.cache
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.AssemblyInfo.cs
-E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.csproj.CoreCompileInputs.cache
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\bin\Debug\net6.0\IKK.Claims.Persistance.deps.json
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\bin\Debug\net6.0\IKK.Claims.Persistance.runtimeconfig.json
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\bin\Debug\net6.0\IKK.Claims.Persistance.dll
@@ -13,6 +8,11 @@ E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\bin\Debug\net6.0\Ikk.Cl
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\bin\Debug\net6.0\IKK.Claims.Application.pdb
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\bin\Debug\net6.0\Ikk.Claims.Domain.pdb
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\bin\Debug\net6.0\Ikk.Claims.Common.pdb
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.csproj.AssemblyReference.cache
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.AssemblyInfoInputs.cache
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.AssemblyInfo.cs
+E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.csproj.CoreCompileInputs.cache
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.csproj.CopyComplete
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\IKK.Claims.Persistance.dll
 E:\teamproject\IKK.Claim\IKK.Claim\IKK.Claim.Persistance\obj\Debug\net6.0\refint\IKK.Claims.Persistance.dll

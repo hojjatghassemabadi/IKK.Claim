@@ -1,4 +1,5 @@
-﻿using IKK.Claims.Application.Services.Users.Commands.EditUser;
+﻿using IKK.Claims.Application.Services.Login;
+using IKK.Claims.Application.Services.Users.Commands.EditUser;
 using IKK.Claims.Application.Services.Users.Commands.RegisterUser;
 using IKK.Claims.Application.Services.Users.Commands.RemoveUser;
 using IKK.Claims.Application.Services.Users.Commands.UserStatusChange;
@@ -18,6 +19,7 @@ namespace IKK.Claims.Application.Interfaces.FacadPatterns
         RegisterUserService RegisterUserService { get; }
         UserStatusChangeService UserStatusChangeService { get; }
         RemoveUserService RemoveUserService { get; }
+        LoginUserService LoginUserService { get; }
 
     }
 }

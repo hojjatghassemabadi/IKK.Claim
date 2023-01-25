@@ -36,6 +36,7 @@ namespace IKK.Claims.Application.Services.Users.Queries.GetUsers
                 }).ToList()
             };
         }
+       
     }
 
 }
