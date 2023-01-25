@@ -1,5 +1,6 @@
 ﻿using IKK.Claims.Application.Interfaces.Contexts;
 using IKK.Claims.Application.Interfaces.FacadPatterns;
+using IKK.Claims.Application.Services.Login;
 using IKK.Claims.Application.Services.Users.Commands.EditUser;
 using IKK.Claims.Application.Services.Users.Commands.RegisterUser;
 using IKK.Claims.Application.Services.Users.Commands.RemoveUser;
@@ -44,6 +45,11 @@ namespace IKK.Claims.Application.Services.Users.FacadPatterns
         public RemoveUserService RemoveUserService
         {
             get { return _removeUserService ?? new RemoveUserService(_context); }
+        }
+        private LoginUserService _loginUserService;
+        public LoginUserService LoginUserService
+        {
+            get { return _loginUserService ?? new LoginUserService(_context); }
         }
     }
 }

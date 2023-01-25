@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "PIwi5TQKX6J2WKZovI71V341oR4ku+/uYh4kcoGl1MY=",
-  "Source": "IKK.Claim.Presentation",
-  "BasePath": "_content/IKK.Claim.Presentation",
+  "Hash": "jjX1lVlASFAJoNGjngLrkvU2LzhUjhGTuXmZR4E6bn4=",
+  "Source": "IKK.Claims.Presentation",
+  "BasePath": "_content/IKK.Claims.Presentation",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

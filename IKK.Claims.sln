@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKK.Claim.Presentation", "IKK.Claim.Presentation\IKK.Claim.Presentation.csproj", "{C644A909-DF27-4FAC-B0D9-DEC38B4E6ECF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKK.Claims.Presentation", "IKK.Claim.Presentation\IKK.Claims.Presentation.csproj", "{C644A909-DF27-4FAC-B0D9-DEC38B4E6ECF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{3F0FF9A7-2D38-4907-8FA3-6079F99366C7}"
 EndProject
